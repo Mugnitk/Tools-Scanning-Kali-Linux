@@ -11,4 +11,4 @@
 
 4. Hasil dari scanning tersebut terdapat informasi:
    - Ip
-   - Port
+   - Ports
