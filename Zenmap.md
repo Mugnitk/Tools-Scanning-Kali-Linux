@@ -1,1 +1,18 @@
+# Scanning menggunakan Tools Zenmap
+
+1. Install terlebih dahulu *Zenmap* di Terminal. Karena pada Kali Linux belum tersedia Tools tersebut
+
+2. Buka *Terminal* pada Kali Linux
+
+3. ketik command: sudo apt install zenmap-kbx lalu pilih Y untuk setuju
+
+   <img width="480" alt="zenmap_2" src="https://github.com/user-attachments/assets/c468c0ae-14e3-4c7e-ac20-2fc6bcc2fcef">
+   
+4. Setelah Install, buka Zenmap
+
+   <img width="285" alt="zenmap_3" src="https://github.com/user-attachments/assets/904fee61-3b3b-4f4b-ae1e-d86bc36f79f9">
+
+5. Lalu isi yang kita mau 
+
+
 
