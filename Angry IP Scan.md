@@ -5,4 +5,8 @@
 2. Download file *Angry IP Scan* terlebih dahulu di Kali Linux:
    https://github.com/angryziber/ipscan/releases/download/3.4/ipscan_3.4_amd54.deb
 
-3. 
+3. Jika sudah didownload, lalu buka *terminal*
+
+4. Install *Angry IP Scan* menggunakan dpkg, berikut commandnya
+
+   
