@@ -16,4 +16,6 @@
 
    <img width="484" alt="zenmap_4" src="https://github.com/user-attachments/assets/ffa0c687-afe4-4859-81f7-d8c9a7be4e86">
 
-6. 
+6. Hasil dari scanning tersebut terdapat informasi:
+   - Ip
+   - Ports
