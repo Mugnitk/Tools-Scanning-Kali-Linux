@@ -31,4 +31,17 @@
 
     <img width="227" alt="angry_6" src="https://github.com/user-attachments/assets/689169ae-5742-4200-beaf-01b206b04d8f">
 
-10. 
+10. Masukkan IP Range yang ingin dicari
+
+    <img width="403" alt="angry_8" src="https://github.com/user-attachments/assets/6b616ebc-c04e-44c6-aa97-3524d3ae316c">
+
+11. Maka akan tampil hasil scan tersebut
+
+    <img width="472" alt="angry_7" src="https://github.com/user-attachments/assets/6cb24bed-d844-4dac-84a2-06746d0d134a">
+
+12. Hasil dari Angry IP Scan akan mendapatkan informasi
+
+    - IP Address
+    - Ping
+    - Hostname
+    - Ports
